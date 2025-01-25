@@ -1,0 +1,58 @@
+{
+    "location": "Surat",
+    "places": [
+        {
+            "name": "Dumas Beach",
+            "category": "Beach",
+            "description": "Famous for its black sand and stunning sunsets, Dumas Beach is a popular spot for evening strolls and street food.",
+            "latitude": "21.1469",
+            "longitude": "72.8312"
+        },
+        {
+            "name": "Jagdishchandra Bose Municipal Aquarium",
+            "category": "Aquarium",
+            "description": "India’s first multidisciplinary aquarium featuring over 100 aquatic species across 36 themed tanks.",
+            "latitude": "21.1750",
+            "longitude": "72.8250"
+        },
+        {
+            "name": "VR Surat",
+            "category": "Shopping Mall",
+            "description": "A world-class shopping destination with over 100 premium brands including Zara, Marks & Spencer, and Swarovski.",
+            "latitude": "21.1850",
+            "longitude": "72.8300"
+        },
+        {
+            "name": "ISKCON Temple",
+            "category": "Religious Site",
+            "description": "A beautiful temple known for its serene ambiance and intricate architecture.",
+            "latitude": "21.1800",
+            "longitude": "72.8200"
+        },
+        {
+            "name": "Sarthana Nature Park",
+            "category": "Park",
+            "description": "The largest zoo in Gujarat, housing diverse wildlife including lions, tigers, and exotic birds.",
+            "latitude": "21.1600",
+            "longitude": "72.8400"
+        },
+        {
+            "name": "Surat Bus Station",
+            "category": "Bus Stand",
+            "latitude": "21.1700",
+            "longitude": "72.8300"
+        },
+        {
+            "name": "Adajan Bus Stand",
+            "category": "Bus Stand",
+            "latitude": "21.1750",
+            "longitude": "72.8250"
+        },
+        {
+            "name": "Udhna Bus Station",
+            "category": "Bus Stand",
+            "latitude": "21.1800",
+            "longitude": "72.8200"
+        }
+    ]
+}
